@@ -1,32 +1,32 @@
-## Hi there 👋
+## Hola 👋
 
-I'm **Julio Enrique Moreno Pérez**, a Fullstack Web Developer with 9+ years of experience building scalable applications.  
-Currently based in Montevideo, Uruguay 🇺🇾.  
+Soy **Julio Enrique Moreno Pérez**, Ingeniero de Software Fullstack con más de 9 años de experiencia desarrollando aplicaciones escalables.  
+Actualmente radicado en Montevideo, Uruguay 🇺🇾.  
 
-### 🔭 I’m currently working on
-- Fullstack projects with **PHP (Laravel, Yii2)**  
-- Modern frontend with **Vue.js, React, Astro**  
-- Backend services with **Node.js**  
-- Optimizing performance in **PostgreSQL, MySQL, Redis**  
-- Containerized environments with **Docker**  
+### 🔭 Actualmente trabajando en
+- Proyectos fullstack con **PHP (Laravel, Yii2)**  
+- Frontend moderno con **Vue.js, React, Astro**  
+- Servicios backend con **Node.js**  
+- Optimización de rendimiento en **PostgreSQL, MySQL, Redis**  
+- Entornos contenerizados con **Docker**  
 
-### 🌱 I’m currently learning
-- Advanced **TypeScript** patterns in Vue 3  
-- **Docker** for DevOps workflows  
+### 🌱 Actualmente aprendiendo
+- Patrones avanzados de **TypeScript** en Vue 3  
+- **Docker y Kubernetes** para flujos DevOps  
 
-### 👯 I’m looking to collaborate on
-- Open source projects in **PHP, Vue.js, React, Node.js**  
-- Tools that improve developer productivity  
+### 👯 Buscando colaborar en
+- Proyectos open source con **PHP, Vue.js, React, Node.js**  
+- Herramientas que mejoren la productividad de desarrolladores  
 
-### 💬 Ask me about
-- **API design** and **SQL optimization**  
-- Building scalable web apps with **Laravel + Vue/React**  
-- Integrating external services securely  
+### 💬 Pregúntame sobre
+- **Diseño de APIs** y optimización de SQL  
+- Construcción de aplicaciones web escalables con **Laravel + Vue/React**  
+- Integración segura de servicios externos  
 
-### 📫 How to reach me
+### 📫 Cómo contactarme
 - Email: julioenriquemorenoperez@gmail.com  
 - LinkedIn: [julio-enrique](https://linkedin.com/in/julio-enrique)  
 - Telegram: @JulioEnrique93  
 
-### ⚡ Fun fact
-I optimized a critical endpoint from **15s to 4s** response time by refactoring queries and caching — performance tuning is my favorite challenge.
+### ⚡ Dato curioso
+Optimicé un endpoint crítico reduciendo el tiempo de respuesta de **15s a 4s** mediante refactorización de consultas e implementación de caché — el rendimiento es mi desafío favorito.
