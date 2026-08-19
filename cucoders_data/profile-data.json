@@ -1,0 +1,23 @@
+{
+  "username": "julioenrique93",
+  "id": "95496255",
+  "name": "Julio Enrique Moreno Pérez",
+  "company": "Freelance / Open to opportunities",
+  "web": "",
+  "location": "Montevideo, Uruguay",
+  "email": "julioenriquemorenoperez@gmail.com",
+  "hireable": true,
+  "bio": "Ingeniero de Software Fullstack con más de 9 años de experiencia en desarrollo de aplicaciones web escalables. Especialista en PHP (Laravel, Yii2), JavsScript (Vue.js, react, node.js) y base de datos (PostgreSQL, MySql), con experiencia en optimización de rendimiento, arquitectura de aplicaciones e integración de sistemas críticos. Experiencia en Docker y metodologías ágiles.",
+  "twitter_username": "",
+  "headline": "Fullstack Developer | PHP, JavsScript, Docker",
+  "linkedin_username": "julio-enrique",
+  "telegram_username": "JulioEnrique93",
+  "categories": [
+    "Fullstack Development",
+    "PHP",
+    "JavsScript",
+    "Docker",
+    "SQL",
+    "Agile/Scrum"
+  ]
+}
