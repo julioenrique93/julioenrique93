@@ -1,32 +1,41 @@
 ## Hola 👋
 
-Soy **Julio Enrique Moreno Pérez**, Ingeniero de Software Fullstack con más de 9 años de experiencia desarrollando aplicaciones escalables.  
-Actualmente radicado en Montevideo, Uruguay 🇺🇾.  
+Soy **Julio Enrique Moreno Pérez**, Ingeniero de Software Fullstack con más de 9 años de experiencia construyendo aplicaciones web escalables y de alto rendimiento.
+
+Actualmente radicado en **Montevideo, Uruguay** 🇺🇾.
+
+---
 
 ### 🔭 Actualmente trabajando en
-- Proyectos fullstack con **PHP (Laravel, Yii2)**  
-- Frontend moderno con **Vue.js, React, Astro**  
-- Servicios backend con **Node.js**  
-- Optimización de rendimiento en **PostgreSQL, MySQL, Redis**  
-- Entornos contenerizados con **Docker**  
+- Desarrollo fullstack con **PHP (Laravel & Yii2)**
+- Frontend moderno con **Vue.js, React, Astro + TypeScript**
+- Optimización de rendimiento en **PostgreSQL, Redis y MySQL**
+- Arquitectura y despliegue con **Docker**
+- Proyectos comerciales con **Astro + Tailwind CSS**
 
-### 🌱 Actualmente aprendiendo
-- Patrones avanzados de **TypeScript** en Vue 3  
-- **Docker y Kubernetes** para flujos DevOps  
+### 🌱 Actualmente profundizando en
+- Patrones avanzados de **TypeScript** (Vue 3 & React)
+- Flujos DevOps con **Docker y Kubernetes**
+- SEO técnico y sitios de alto rendimiento (Astro)
 
-### 👯 Buscando colaborar en
-- Proyectos open source con **PHP, Vue.js, React, Node.js**  
-- Herramientas que mejoren la productividad de desarrolladores  
+### 🚀 Lo que más me gusta hacer
+- Optimizar aplicaciones (ejemplo real: reducí un endpoint de **15s a 4s**)
+- Diseñar e implementar **APIs REST** limpias y escalables
+- Integrar sistemas externos de forma segura
+- Entregar productos de punta a punta (desde la arquitectura hasta producción)
 
 ### 💬 Pregúntame sobre
-- **Diseño de APIs** y optimización de SQL  
-- Construcción de aplicaciones web escalables con **Laravel + Vue/React**  
-- Integración segura de servicios externos  
+- Arquitectura de aplicaciones fullstack
+- Optimización de consultas SQL y estrategias de caché
+- Laravel + Vue/React
+- Migración y modernización de stacks
 
-### 📫 Cómo contactarme
-- Email: julioenriquemorenoperez@gmail.com  
-- LinkedIn: [julio-enrique](https://linkedin.com/in/julio-enrique)  
-- Telegram: @JulioEnrique93  
+### 📫 Contacto
+- Email: [julioenriquemorenoperez@gmail.com](mailto:julioenriquemorenoperez@gmail.com)
+- LinkedIn: [julio-enrique](https://linkedin.com/in/julio-enrique)
+- Telegram: [@JulioEnrique93](https://t.me/JulioEnrique93)
 
-### ⚡ Dato curioso
-Optimicé un endpoint crítico reduciendo el tiempo de respuesta de **15s a 4s** mediante refactorización de consultas e implementación de caché — el rendimiento es mi desafío favorito.
+---
+
+**Dato curioso:**  
+El rendimiento es mi desafío favorito. Optimizar, medir y volver a optimizar es lo que más disfruto.
