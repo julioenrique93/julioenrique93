@@ -15,7 +15,7 @@ Actualmente radicado en **Montevideo, Uruguay** 🇺🇾.
 
 ### 🌱 Actualmente profundizando en
 - Patrones avanzados de **TypeScript** (Vue 3 & React)
-- Flujos DevOps con **Docker y Kubernetes**
+- Flujos DevOps con **Docker**
 - SEO técnico y sitios de alto rendimiento (Astro)
 
 ### 🚀 Lo que más me gusta hacer
@@ -33,7 +33,6 @@ Actualmente radicado en **Montevideo, Uruguay** 🇺🇾.
 ### 📫 Contacto
 - Email: [julioenriquemorenoperez@gmail.com](mailto:julioenriquemorenoperez@gmail.com)
 - LinkedIn: [julio-enrique](https://linkedin.com/in/julio-enrique)
-- Telegram: [@JulioEnrique93](https://t.me/JulioEnrique93)
 
 ---
 
